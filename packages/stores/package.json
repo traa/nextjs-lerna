@@ -1,0 +1,10 @@
+{
+  "name": "@tr8/stores",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "version": "0.0.1",
+  "description": "Different stores for MobX",
+  "author": "traa",
+  "license": "UNLICENSED"
+}
