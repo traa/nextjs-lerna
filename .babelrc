@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    ["module-resolver", {
+      "alias": {
+        "^@stores/(.+)": "./stores/\\1"
+      }
+    }]
+  ]
+}

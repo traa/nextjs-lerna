@@ -1,6 +1,6 @@
 import React from 'react';
 import { Provider } from 'mobx-react';
-import initStore from '@tr8/stores/general';
+import initStore from '@stores/general';
 
 export default class IndexPage extends React.Component {
   // static getInitialProps ({ req }) {
